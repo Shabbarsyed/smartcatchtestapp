@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482898730047",
+    "project_id": "smartcatch-25400",
+    "storage_bucket": "smartcatch-25400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482898730047:android:b9fd85c3dc6a977426ac8a",
+        "android_client_info": {
+          "package_name": "com.example.smartcatchapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMaexRVaviwGXm6gmSAVlqB1Jm5Rn6E5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
